@@ -1,8 +1,4 @@
-# React + Vite
+# Todo List App
+Built with React and leveraging the capabilities of Redux Toolkit, this Todo List application provides a robust and organized way to manage tasks. Users can add new tasks, mark them as completed, and remove them from the list. Redux Toolkit streamlines the state management, ensuring that the application remains scalable and maintainable as the complexity of the task management system grows. The Todo List app demonstrates the power of using Redux Toolkit with React for efficient state management in a user-friendly task management interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to modify and expand on this description based on the specific features, functionalities, and design choices in your applications. This description provides a brief overview of each application and highlights the role of Redux Toolkit in managing state efficiently.
