@@ -3,6 +3,8 @@ Built with React and leveraging the capabilities of Redux Toolkit, this Todo Lis
 
 Feel free to modify and expand on this description based on the specific features, functionalities, and design choices in your applications. This description provides a brief overview of each application and highlights the role of Redux Toolkit in managing state efficiently.
 
+<h3 style="font:bold">Directory structure:</h3>
+Outline the main directories and their purposes, using a bulleted list or a visual tree diagram.
 <pre>
 project_name/
 ├── src/                &lt;-- Source code files
